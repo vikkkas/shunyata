@@ -6,7 +6,7 @@ import Card from "../../components/layout/Card1";
 import plant from "../../assets/plant.png";
 import heart from "../../assets/heart.png";
 import hand from "../../assets/hand.png";
-import vector from "../../assets/Vector.png";
+import vector from "../../assets/vector.png";
 import fingers from "../../assets/fingers.png";
 import Card2 from "../../components/layout/Card2";
 import Navbar from "../../components/Navbar";
